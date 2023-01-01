@@ -1,8 +1,8 @@
 # Getting Started with Create React App
 
-#Website URL:https://todoslist-typescript.web.app/
+## Website URL
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+https://todoslist-typescript.web.app/
 
 ## Available Scripts
 
